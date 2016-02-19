@@ -5,3 +5,4 @@ Test change for integration from git to TFS
 For new lines test in comment
 
 Change to show in the dry run
+Test Rule
