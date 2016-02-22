@@ -2,7 +2,7 @@ test commit in github
 
 Test change for integration from git to TFS
 
-For new lines test in comment
+For new lines test in comment add for defect 132
 
 Change to show in the dry run
 Test Rule
