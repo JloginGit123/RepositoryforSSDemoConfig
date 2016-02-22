@@ -6,3 +6,4 @@ For new lines test in comment add for defect 132
 
 Change to show in the dry run
 Test Rule
+Fix for defect 134
