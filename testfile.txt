@@ -10,3 +10,5 @@ Fix for defect 134
 
 
 Fix for defect 144
+
+fix for defect 145
