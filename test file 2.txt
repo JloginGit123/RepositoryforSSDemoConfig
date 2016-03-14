@@ -1,3 +1,4 @@
 Test commit
 
 Fix for defect 153
+fix for defect 241
