@@ -27,3 +27,5 @@ Bug 236
 bug reenvisioned
 
 FIx bug 227
+
+Fix for defect 246
