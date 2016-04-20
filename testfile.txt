@@ -38,3 +38,4 @@ Defect fix 252-Jayashree-18thmarch
 defect 310
 
 defect fix 312
+defect fix 313
