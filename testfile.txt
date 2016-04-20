@@ -39,3 +39,5 @@ defect 310
 
 defect fix 312
 defect fix 313
+
+bug fix 315
