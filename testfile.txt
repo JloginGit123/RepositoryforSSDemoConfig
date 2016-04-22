@@ -24,6 +24,8 @@ work on UAT_VANffbfwfrgfdsgsfsfs
 
 Bug fix or 258
 
+Bug fix for 317
+
 Bug 236
 
 bug reenvisioned
