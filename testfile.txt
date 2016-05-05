@@ -11,6 +11,8 @@ Fix for defect 134
 
 Fix for defect 144
 
+Defect 345
+
 fix for defect 145
 
 Export fixed for defect 156
