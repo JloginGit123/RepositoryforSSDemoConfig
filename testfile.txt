@@ -9,7 +9,7 @@ Test Rule
 Fix for defect 134
 
 
-Fix for defect 372
+Fix for defect 37255
 
 Defect 345
 
