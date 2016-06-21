@@ -54,3 +54,7 @@ bug fix for defect 340
 
 defect fix for 368
 test 405
+
+fix for 407
+
+fix for 445-dipanjan
